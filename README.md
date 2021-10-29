@@ -1,3 +1,3 @@
 # revsuephillips.com
 
-Initial setup for new personal website h/t Troy Conrad Therrien forked from Dan Hassan.
+Site design forked from Dan Hassan via Troy Therrien. All materials are free to share: Creative Commons (BY-NC-SA 3.0).
